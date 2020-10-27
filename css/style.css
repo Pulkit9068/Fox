@@ -9,7 +9,7 @@ body {
   font-family: 'Lato', sans-serif;
   overflow: hidden;
   overflow-y: scroll;
-  background-color: #000;
+  background-color:##ec0101;;
 }
 body .bg-img {
   background-repeat: no-repeat;
@@ -22,27 +22,30 @@ body nav {
 body nav .navbar-nav a {
   font-size: 16px;
   text-transform: uppercase;
-  color: #fff !important;
+  color: #ec0101;
   transition: all 0.3s;
   -webkit-transition: all 0.3s;
   -ms-transition: all 0.3s;
   -o-transition: all 0.3s;
 }
 body nav .navbar-nav a:hover {
-  color: #ff8013 !important;
+  color: #ec0101; !important;
 }
 body nav .navbar-nav .btn-danger {
   background: #ff8013;
-  border-color: #ff8013;
+  border-color: #ec0101;
   border-radius: 0;
 }
 body nav .navbar-nav .btn-danger:hover {
   background: #df6700;
-  border-color: #df6700;
+  border-color:#ec0101;
 }
 
 a, a:hover {
-  color: #ff8013;
+  color: #ec0101;
+}
+.nav-item{
+  color: #ec0101;
 }
 
 .fh5co-banner-text-box {
@@ -50,19 +53,21 @@ a, a:hover {
   max-height: 120px;
   display: inline-block;
   margin-top: 250px;
+  border-color: #ec0101;
 }
 .fh5co-banner-text-box .quote-box {
   max-width: 455px;
   padding: 20px 0;
+  color:#ec0101;"
 }
 .fh5co-banner-text-box .quote-box h2 {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
-  color: #fff;
+  color:#ec0101;";
   font-size: 40px;
 }
 .fh5co-banner-text-box .quote-box h2 span {
-  color: #ff8013;
+  color:#ec0101;
   font-size: 34px;
 }
 .fh5co-banner-text-box .quote-box::before {
@@ -74,6 +79,7 @@ a, a:hover {
   top: 0;
   background: url("../images/right-quote.png");
   background-repeat: no-repeat;
+  border-color:#ec0101;
 }
 .fh5co-banner-text-box .quote-box::after {
   content: "";
@@ -116,12 +122,12 @@ a, a:hover {
   margin-bottom: 0;
 }
 .fh5co-network h4, .fh5co-about-us h4, .fh5co-network h5, .fh5co-about-us h5, .fh5co-network p, .fh5co-about-us p {
-  color: #282828;
+  color: #ec0101;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
 }
 .fh5co-network hr, .fh5co-about-us hr {
-  border-color: #ff8013;
+  border-color: #ec0101;
   border-width: 5px;
   max-width: 100px;
   margin-left: 0;
@@ -170,7 +176,7 @@ a, a:hover {
   width: 100%;
 }
 .fh5co-content-box .card-img-overlay {
-  color: #fff;
+  color:#ec0101;
   text-align: center;
   top: 35%;
 }
@@ -205,7 +211,7 @@ a, a:hover {
 .fh5co-content-box .trainers .card .card-body::before {
   content: "";
   position: absolute;
-  border: 20px solid #ccc;
+  border: 20px solid #ec0101;
   border-color: transparent transparent #ccc transparent;
   margin-top: -70px;
   text-align: center;
@@ -244,7 +250,7 @@ a, a:hover {
 .fh5co-content-box .trainers::before, .fh5co-content-box .trainers::after {
   content: "";
   position: absolute;
-  border: 5px solid #ff8013;
+  border: 5px solid #ec0101;
   width: 100%;
   top: -10px;
 }
@@ -261,7 +267,7 @@ a, a:hover {
   max-height: 580px;
 }
 .fh5co-content-box .gallery .card .card-body {
-  background: #ff8013;
+  background:#ec0101;";
 }
 .fh5co-content-box .gallery .card .card-body h4 {
   color: #fff;
@@ -273,7 +279,7 @@ a, a:hover {
 
 footer {
   background: #101011;
-  color: #fff;
+  color: #ec0101;;
 }
 footer .footer1 p {
   margin-top: 30px;
@@ -344,7 +350,7 @@ footer .table td, footer .table th {
 footer::before {
   content: "";
   position: absolute;
-  border: 3px solid #ff8013;
+  border: 3px solid #ec0101;
   width: 100%;
   left: 0;
 }
